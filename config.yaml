@@ -1,0 +1,9 @@
+listen: "0.0.0.0:8053"
+default_ttl: 60
+
+records:
+  - domain: "example.local"
+    ip: "10.0.0.50"
+  - domain: "test.local"
+    ip: "10.0.0.99"
+    ttl: 120
