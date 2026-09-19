@@ -1,4 +1,4 @@
-# dnsserver
+# DNS-server
 
 A minimal authoritative DNS server written in Go, from scratch: it parses
 and builds DNS packets itself (no third-party DNS library), listens over
